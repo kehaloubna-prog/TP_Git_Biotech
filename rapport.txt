@@ -1,0 +1,14 @@
+TP Git & GitHub - Biotechnologie Generale
+
+Git est un systeme de controle de version tres utile en biotechnologie.
+Il permet de suivre toutes les modifications des protocoles et rapports.
+Il facilite le travail en equipe et securise les donnees experimentales.
+GitHub est une plateforme pour heberger et partager les projets.
+Dans ce TP, j'ai appris a cloner un depot, faire des commits et des push.
+J'ai aussi appris a creer une branche develop et a faire un merge vers main.
+
+Mon idee de projet personnel - Biotechnologie Generale:
+Mon projet porte sur la production d'un biofertilisant a base de bacteries PGPR.
+L'objectif est d'isoler des bacteries benefiques du sol de la region d'Annaba.
+Ces bacteries peuvent ameliorer la croissance des plantes et la sante des sols.
+Je souhaite versionner avec Git tous les protocoles, resultats et analyses.
